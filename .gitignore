@@ -1,5 +1,3 @@
-01-asset-management/node_modules
-01-asset-management/dist
-02-output-management/node_modules
-02-output-management/dist
+**/dist
+**/node_modules
 
